@@ -3,11 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+// A pig can say, ``Oink.'' A cow can say, ``Moo.'' A chicken can say, ``Cluck.'' You get the idea.
+//Make sure to clear out before running
+
+
 
 namespace CreatingAFarm
 {
-    /*
     
+    /*
     public static class Program
     {
 
@@ -73,7 +77,7 @@ namespace CreatingAFarm
 
         public  void Speak()
         {
-            Console.WriteLine("\nHello my name is Candie, and I am a Cow.I say Moo.");
+            Console.WriteLine("\nHello my name is Candie, and I am a Cow. I say Moo.");
 
         }
 
@@ -85,7 +89,7 @@ namespace CreatingAFarm
 
         public void Speak()
     {
-        Console.WriteLine("\nHello my name is Billy, and I am a Sheep.I say Baa.");
+        Console.WriteLine("\nHello my name is Billy, and I am a Sheep. I say Baa.");
 
     }
 
@@ -112,12 +116,10 @@ public class Chickens
 
         public  void Speak()
         {
-            Console.WriteLine("\nHello my name is Bugs Bunny, and I am a Rabbit.I say Boo.");
+            Console.WriteLine("\nHello my name is Bugs Bunny, and I am a Rabbit. I say Boo.");
 
         }
 
-
-     
 
     }
 
@@ -126,12 +128,12 @@ public class Chickens
 
         public  void Speak()
         {
-            Console.WriteLine("\nHello my name is Mr.Ed, and I am a Horse.I say Neigh.");
+            Console.WriteLine("\nHello my name is Mr.Ed, and I am a Horse. I say Neigh.");
 
         }
 
       
-    }
-   */
+    }*/
+   
 }
 

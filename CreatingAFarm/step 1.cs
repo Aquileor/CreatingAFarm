@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//For example, for your Rabbit class, you might instantiate objects Bugs Bunny, Roger Rabbit, Thumper, and Peter Cottontail.
+//Make sure to clear out before running
 namespace CreatingAFarm
 {
     /*
@@ -121,8 +122,8 @@ namespace CreatingAFarm
         public String horse3 = "Huckleberry";
         public String horse4 = "Mo Maba";
 
-    }
-    */
+    }*/
+    
 }
 
 

@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+// ``Hello, my name is Mr. Ed, and I am a horse. I say neigh."
+//Make sure to clear out before running
+
 
 namespace CreatingAFarm
 {
@@ -22,7 +25,7 @@ namespace CreatingAFarm
             while (check == false)
 
             {
-                Console.WriteLine($"\nWould you like Mr.Ed to speek?\n" + "1.Yes" + " 2. No");
+                Console.WriteLine($"\nWould you like Mr.Ed to speak?\n" + "1.Yes" + " 2. No");
                 Console.Write("My option is: ");
                 name = Console.ReadLine();
                 switch (name)
@@ -60,7 +63,6 @@ namespace CreatingAFarm
         public void Speak()
         {
 
-            //string Me = "you";
         Console.WriteLine($"\nHello my name is Mr.Ed, and I am a Horse. I say Neigh.");
 
         }

@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+//Four classes, four methods
+//Cancel out before tryin to run another code.
+
 
 namespace CreatingAFarm
 {
@@ -107,22 +110,22 @@ namespace CreatingAFarm
 
         public  void Speak()
         {
-            Console.WriteLine("\nHello my name is Candie, and I am a Cow.I say Moo.");
+            Console.WriteLine("\nHello my name is Candie, and I am a Cow. I say Moo.");
 
         }
         public  void Eat()
         {
-            Console.WriteLine("\nHello my name is Candie, and I am a Cow.I eat Grass.");
+            Console.WriteLine("\nHello my name is Candie, and I am a Cow. I eat Grass.");
 
         }
         public  void Produce()
         {
-            Console.WriteLine("\nHello my name is Candie, and I am a Cow.I produce Milk.");
+            Console.WriteLine("\nHello my name is Candie, and I am a Cow. I produce Milk.");
 
         }
         public  void Loveto()
         {
-            Console.WriteLine("\nHello my name is Candie, and I am a Cow.I slove to lick.");
+            Console.WriteLine("\nHello my name is Candie, and I am a Cow. I love to lick.");
         }
 
 
@@ -133,22 +136,22 @@ namespace CreatingAFarm
 
         public  void Speak()
         {
-            Console.WriteLine("\nHello my name is Billy, and I am a Sheep.I say Baa.");
+            Console.WriteLine("\nHello my name is Billy, and I am a Sheep. I say Baa.");
 
         }
         public  void Eat()
         {
-            Console.WriteLine("\nHello my name is Billy, and I am a Sheep.I eat Fish.");
+            Console.WriteLine("\nHello my name is Billy, and I am a Sheep. I eat Fish.");
 
         }
         public  void Produce()
         {
-            Console.WriteLine("\nHello my name is Billy, and I am a Sheep.I produce Wool.");
+            Console.WriteLine("\nHello my name is Billy, and I am a Sheep. I produce Wool.");
 
         }
         public  void Loveto()
         {
-            Console.WriteLine("\nHello my name is Billy, and I am a Sheep.I love to Party like there is no tommorrow.");
+            Console.WriteLine("\nHello my name is Billy, and I am a Sheep. I love to Party like there is no tommorrow.");
 
 
         }
@@ -176,7 +179,7 @@ namespace CreatingAFarm
         }
         public  void Loveto()
         {
-            Console.WriteLine("\nHello my name is Shelldon, and I am a Chicken. I love Try to fly.");
+            Console.WriteLine("\nHello my name is Shelldon, and I am a Chicken. I love to Try to fly.");
         }
 
 
@@ -187,22 +190,22 @@ namespace CreatingAFarm
 
         public  void Speak()
         {
-            Console.WriteLine("\nHello my name is Bugs Bunny, and I am a Rabbit.I say Boo.");
+            Console.WriteLine("\nHello my name is Bugs Bunny, and I am a Rabbit. I say Boo.");
 
         }
         public  void Eat()
         {
-            Console.WriteLine("\nHello my name is Bugs Bunny, and I am a Rabbit.I eat Carriots.");
+            Console.WriteLine("\nHello my name is Bugs Bunny, and I am a Rabbit. I eat Carriots.");
 
         }
         public  void Produce()
         {
-            Console.WriteLine("\nHello my name is Bugs Bunny, and I am a Rabbit.I produce Fur.");
+            Console.WriteLine("\nHello my name is Bugs Bunny, and I am a Rabbit. I produce Fur.");
 
         }
     public  void Loveto()
     {
-            Console.WriteLine("\nHello my name is Bugs Bunny, and I am a Rabbit.I love to Jump up and down.");
+            Console.WriteLine("\nHello my name is Bugs Bunny, and I am a Rabbit. I love to Jump up and down.");
         }
 
 
@@ -213,25 +216,24 @@ namespace CreatingAFarm
 
         public  void Speak()
         {
-            Console.WriteLine("\nHello my name is Mr.Ed, and I am a Horse.I say Neigh.");
+            Console.WriteLine("\nHello my name is Mr.Ed, and I am a Horse. I say Neigh.");
 
         }
         public  void Eat()
         {
-            Console.WriteLine("\nHello my name is Mr.Ed, and I am a Horse.I eat Hay.");
+            Console.WriteLine("\nHello my name is Mr.Ed, and I am a Horse. I eat Hay.");
 
         }
         public  void Produce()
         {
-            Console.WriteLine("\nHello my name is Mr.Ed, and I am a Horse.I am used for Transportation.");
+            Console.WriteLine("\nHello my name is Mr.Ed, and I am a Horse. I am used for Transportation.");
 
         }
         public  void Loveto()
         {
-            Console.WriteLine("\nHello my name is Mr.Ed, and I am a Horse.I love to Dance.");
+            Console.WriteLine("\nHello my name is Mr.Ed, and I am a Horse. I love to Dance.");
 
         }
 
-    }
-    
+    }    
 }
