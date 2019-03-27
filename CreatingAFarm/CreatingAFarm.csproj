@@ -50,7 +50,7 @@
     <Compile Include="Part 1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RandGenUniform.cs" />
+    <Compile Include="step 1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

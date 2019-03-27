@@ -1,7 +1,7 @@
 ﻿using System;
 
-using CenterSpace.NMath.Core;
-
+//using CenterSpace.NMath.Core;
+/*
 namespace CenterSpace.NMath.Core.Examples.CSharp
 {
     /// <summary>
@@ -68,37 +68,12 @@ namespace CenterSpace.NMath.Core.Examples.CSharp
 
 
 
+    */
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*
+namespace MonteCarlo
+{
 
 
 static void Main(string[] args)
@@ -128,3 +103,17 @@ static void Main(string[] args)
         Console.WriteLine("pi: {0,-10:0.00} Dots in square: {1,-15:0} Dots in circle: {2,-20:0}", pi, i, c);
     }
 }
+}
+*/
+
+//Console.WriteLine($"\nHello my name is {rab.rabbit1}, and I am a Rabbit. I say {rab.speak}.");
+
+//Console.WriteLine($"\nHello my name is {cow.cow1}, and I am a Cow. I say {cow.speak}.");
+
+//Console.WriteLine($"\nHello my name is {sheep.sheep1}, and I am a Sheep. I say {sheep.speak}.");
+
+//Console.WriteLine($"\nHello my name is {chicken.chicken1}, and I am a Chicken. I say {chicken.speak}.");
+
+//Console.WriteLine($"\nHello my name is {horse.horse1}, and I am a horse. I say {horse.speak}.");
+
+

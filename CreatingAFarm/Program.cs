@@ -3,11 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-/*
+
 namespace CreatingAFarm
 {
     /*
-    public class Program
+
+    public static class Program
     {
 
         public static void Main()
@@ -18,22 +19,11 @@ namespace CreatingAFarm
             Chickens chicken = new Chickens();
             Horses horse = new Horses();
 
-            */
 
 
-            /*
-            Console.WriteLine($"Names of Rabbits: {rab.rabbit1}, {rab.rabbit2}, {rab.rabbit3} and {rab.rabbit4}.");
-            Console.WriteLine($"\nNames of Cows: {cow.cow1}, {cow.cow2}, {cow.cow3} and {cow.cow4}.");
-            Console.WriteLine($"\nNamess of Sheeps: {sheep.sheep1}, {sheep.sheep2}, {sheep.sheep3} and {sheep.sheep4}.");
-            Console.WriteLine($"\nNames of Chickens: {chicken.chicken1}, {chicken.chicken2}, {chicken.chicken3} and {chicken.chicken4}.");
-            Console.WriteLine($"\nNames of Horses: {horse.horse1}, {horse.horse2}, {horse.horse3} and {horse.horse4}.\n");
-            Console.ReadKey();
-            */
-            /*
-
-          string name = "";
-          bool check = false;
-          while (check == false)
+            string name = "";
+            bool check = false;
+            while (check == false)
 
             {
                 Console.WriteLine("\nSelect which animal you would like to know about.\n" + "1.Rabbits" + " 2.Cows" + " 3.Sheeps" + " 4.Chickens" + " 5.Horses" + " 6. Quit");
@@ -110,7 +100,7 @@ namespace CreatingAFarm
                 }
 
             }
-            
+
         }
     }
 
@@ -164,7 +154,7 @@ namespace CreatingAFarm
         public string eat = "Carriots";
         public string produce = "Fur";
         public string loveToDo = "Jump up and down";
-    
+
     }
 
     public class Horses
@@ -180,7 +170,5 @@ namespace CreatingAFarm
         public string loveToDo = "Dance";
     }
     */
-
-    
 }
-*/
+
