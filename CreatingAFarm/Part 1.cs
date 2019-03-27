@@ -33,7 +33,7 @@ using System.Threading.Tasks;
             {
                 int num = 1;
 
-                for (int n = 0; n < 4; n++)
+                for (int n = 0; n < 6; n++)
                 {
                     num *= 10;
 
