@@ -4,18 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CreatingAFarm
-{
-    //fixed the code
-    /*
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
+
 
     namespace MonteCarlo
-    {
+    {/*
         public class Program
         {
             public static double Monte(int n)
@@ -49,7 +41,7 @@ namespace CreatingAFarm
                 }
             }
         }
+        */
     }
-    */
+    
 
-}

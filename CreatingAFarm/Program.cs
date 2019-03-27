@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace CreatingAFarm
 {
+    /*
     public class Program
     {
+
         public static void Main()
         {
             Rabbits rab = new Rabbits();
@@ -16,7 +18,7 @@ namespace CreatingAFarm
             Chickens chicken = new Chickens();
             Horses horse = new Horses();
 
-            
+            */
 
 
             /*
@@ -27,6 +29,7 @@ namespace CreatingAFarm
             Console.WriteLine($"\nNames of Horses: {horse.horse1}, {horse.horse2}, {horse.horse3} and {horse.horse4}.\n");
             Console.ReadKey();
             */
+            /*
 
           string name = "";
           bool check = false;
@@ -150,7 +153,7 @@ namespace CreatingAFarm
         public string loveToDo = "Try to fly";
     }
 
-    class Rabbits
+    public class Rabbits
     {
         public String rabbit1 = "Bugs Bunny";
         public String rabbit2 = "Roger Rabbit";
@@ -161,6 +164,7 @@ namespace CreatingAFarm
         public string eat = "Carriots";
         public string produce = "Fur";
         public string loveToDo = "Jump up and down";
+    
     }
 
     public class Horses
@@ -175,7 +179,7 @@ namespace CreatingAFarm
         public string produce = "Transportation";
         public string loveToDo = "Dance";
     }
-
+    */
 
     
 }
