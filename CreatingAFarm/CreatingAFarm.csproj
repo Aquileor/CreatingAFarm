@@ -45,7 +45,6 @@
   <ItemGroup>
     <Compile Include="Four classes, four methods.cs" />
     <Compile Include="Four classes, one method.cs" />
-    <Compile Include="MATHEQUATION.cs" />
     <Compile Include="One class, one method.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="step 1.cs" />
